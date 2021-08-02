@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 24993ee..59268bc 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -12,7 +12,7 @@[m
+       <div class="preloader">[m
+         <img src="preloder.gif" alt="">[m
+       </div>[m
+[31m-      <video  muted autoplay loop class="video-container">[m
+[32m+[m[32m      <video autoplay loop class="video-container">[m
+         <source src="./video.mp4" type="video/mp4" />[m
+       </video>[m
+ [m
